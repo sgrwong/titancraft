@@ -1,0 +1,17 @@
+{
+  "entity.madbot.ambient": {
+    "sounds": [
+      "titancraft:madbot_ambient"
+    ]
+  },
+  "entity.madbot.hurt": {
+    "sounds": [
+      "titancraft:madbot_hurt"
+    ]
+  },
+  "entity.madbot.death": {
+    "sounds": [
+      "titancraft:madbot_death"
+    ]
+  }
+}

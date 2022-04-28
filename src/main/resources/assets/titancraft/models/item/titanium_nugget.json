@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "titancraft:items/titanium_nugget",
+    "layer1": "titancraft:items/titanium_nugget"
+  }
+}

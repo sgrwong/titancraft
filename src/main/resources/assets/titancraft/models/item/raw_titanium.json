@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "titancraft:items/raw_titanium",
+    "layer1": "titancraft:items/raw_titanium"
+  }
+}

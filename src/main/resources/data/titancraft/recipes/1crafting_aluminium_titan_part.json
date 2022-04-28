@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "waw",
+    "awa",
+    "waw"
+  ],
+  "key": {
+    "w": {
+      "item": "titancraft:aluminium_wires"
+    },
+    "a": {
+      "item": "titancraft:aluminium_ingot"
+    }
+  },
+  "result": {
+    "item": "titancraft:aluminium_titan_part",
+    "count": 1
+  }
+}

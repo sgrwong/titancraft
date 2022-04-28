@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ppp",
+    "p p",
+    "   "
+  ],
+  "key": {
+    "p": {
+      "item": "titancraft:steel_titan_part"
+    }
+  },
+  "result": {
+    "item": "titancraft:steel_titan_head",
+    "count": 1
+  }
+}

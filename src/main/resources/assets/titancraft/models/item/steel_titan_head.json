@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "titancraft:items/steel_titan_head"
+  }
+}

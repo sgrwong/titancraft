@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "p p",
+    " p ",
+    " p "
+  ],
+  "key": {
+    "p": {
+      "item": "titancraft:steel_titan_part"
+    }
+  },
+  "result": {
+    "item": "titancraft:steel_titan_left_arm",
+    "count": 1
+  }
+}

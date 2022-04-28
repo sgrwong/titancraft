@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ttt",
+    "ttt",
+    "ttt"
+  ],
+  "key": {
+    "t": {
+      "item": "titancraft:aluminium_ingot"
+    }
+  },
+  "result": {
+    "item": "titancraft:aluminium_block",
+    "count": 1
+  }
+}

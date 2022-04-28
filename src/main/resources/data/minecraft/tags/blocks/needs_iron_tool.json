@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "titancraft:landmine_sand",
+    "titancraft:landmine_grass",
+    "titancraft:titanium_ore",
+    "titancraft:titanium_block",
+    "titancraft:aluminium_ore",
+    "titancraft:aluminium_block"
+  ]
+}

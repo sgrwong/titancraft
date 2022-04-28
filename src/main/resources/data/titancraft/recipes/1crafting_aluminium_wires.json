@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "rrr",
+    "aaa"
+  ],
+  "key": {
+    "r": {
+      "item": "minecraft:redstone"
+    },
+    "a": {
+      "item": "titancraft:aluminium_ingot"
+    }
+  },
+  "result": {
+    "item": "titancraft:aluminium_wires",
+    "count": 5
+  }
+}

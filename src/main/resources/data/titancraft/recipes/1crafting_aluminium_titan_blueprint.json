@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " h ",
+    "lbr",
+    "q p"
+  ],
+  "key": {
+    "h": {
+      "item": "titancraft:aluminium_titan_head"
+    },
+    "b": {
+      "item": "titancraft:aluminium_titan_body"
+    },
+    "l": {
+      "item": "titancraft:aluminium_titan_left_arm"
+    },
+    "r": {
+      "item": "titancraft:aluminium_titan_right_arm"
+    },
+    "q": {
+      "item": "titancraft:aluminium_titan_left_leg"
+    },
+    "p": {
+      "item": "titancraft:aluminium_titan_right_leg"
+    }
+  },
+  "result": {
+    "item": "titancraft:aluminium_titan_blueprint",
+    "count": 1
+  }
+}
